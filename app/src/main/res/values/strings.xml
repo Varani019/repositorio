@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MyContados</string>
+
+    <string name="procura">Procura</string>
+    <string name = "addPerson">Add Pessoa</string>
+
+    <string name="name">Nome</string>
+    <string name="gender">Genero</string>
+    <string name="birth">Nacimento</string>
+    <string name="age">Idade</string>
+    
+    <string name="male">M</string>
+    <string name="femele">F</string>
+
+    <string name="save">Salva</string>
+    <string name="cancel">Cansela</string>
+    <string name="deleta">Deleta</string>
+    <string name="erroDeta">Dados nao correspondem.</string>
+
+</resources>
